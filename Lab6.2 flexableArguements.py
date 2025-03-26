@@ -31,3 +31,9 @@ def ave(*values):
 
 av1, sum_of_numbers = ave(1,2,3,4,5,6)
 print(f"{av1} and sum is {sum_of_numbers}")
+
+
+# Return Values 
+# Return a variable but it can be:
+# Of any type or 
+# A tuple of variables
